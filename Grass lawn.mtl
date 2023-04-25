@@ -1,0 +1,9 @@
+# Exported from 3D Builder
+
+newmtl mtl_diorama_241_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Grass lawn.png
+
+newmtl mtl_diorama_2_b18467_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 276066215_1024x1024_11563080508590297124.png

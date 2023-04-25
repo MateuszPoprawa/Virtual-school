@@ -1,0 +1,4 @@
+﻿  main_file.cpp
+D:\Studia\Grafika Komputerowa i Wizualizacja\Virtual school\main_file.cpp(547,37): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+D:\Studia\Grafika Komputerowa i Wizualizacja\Virtual school\main_file.cpp(548,37): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  Virtual school.vcxproj -> D:\Studia\Grafika Komputerowa i Wizualizacja\Virtual school\Debug\Virtual school.exe
